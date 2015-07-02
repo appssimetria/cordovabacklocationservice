@@ -17,7 +17,7 @@ Este repositório fornece um serviço de Background construída sobre a funciona
 
 
 ## Instalação
-   cordova plugin add https://github.com/appssimetria/cordovabacklocationservice
+   cordova plugin add https://github.com/appssimetria/cordovabacklocationservice.git
 	
 
 ### Exemplo
