@@ -16,7 +16,7 @@ Este repositório fornece um serviço de Background construída sobre a funciona
 - Captura a partir do GPS a Latitude e Longitude do dispositivo e retorna através de uma interface Cordova
 
 
-## Installation
+## Instalação
    cordova plugin add https://github.com/appssimetria/cordovabacklocationservice
 	
 
