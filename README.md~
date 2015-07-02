@@ -1,9 +1,22 @@
-# Cordova Back Location Service
+# Cordova Background Location Service
+
+Desenvolvido a partir da contribuição de Mark Taylor - Red-Folder https://github.com/Red-Folder/bgs-sample. Agradecemos, nos ajudou muito e da mesma forma deixamos livre para uso de acordo com a licença MIT.
 
 ## Breve resumo
 Este repositório fornece um serviço de Background construída sobre a funcionalidade do núcleo para o Plugin de Serviço background para o Cordova (bgs-core) . 
 
 * [Background Service Plugin Core (bgs-core)] (https://github.com/Red-Folder/bgs-core)
+
+## Plataforma Suportada
+
+- Android
+
+## O que faz
+
+- Captura a partir do GPS a Latitude e Longitude do dispositivo e retorna através de uma interface Cordova
+
+
+
 
 ## Installation
    cordova plugin add https://github.com/appssimetria/cordovabacklocationservice
@@ -232,6 +245,7 @@ distributed under the License is distributed on an "AS IS" BASIS,
 WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.   
 See the License for the specific language governing permissions and   
 limitations under the License.
+
 
 
 
